@@ -1,0 +1,247 @@
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\bin\Release\HRM Pro.exe.config
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\bin\Release\HRM Pro.exe
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\bin\Release\HRM Pro.pdb
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\bin\Release\HRM Pro.xml
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\bin\Release\Namtuk.MyCommandButtonNET.dll
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.vbprojResolveAssemblyReference.cache
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReportViewer.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmAmentities.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmArrivalDepartureExpexted.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmAutonoSetting.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoat.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoatSchedule.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoteNote.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmCheckOuts.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmCoktailItemCreation.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDepartment.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDirectory.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDiscountplan.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmEventBoard.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmEventDetails.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmExchangeRate.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmFlightSchedule.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmForecastDetails.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGIN.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRN.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRNConversion.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestFeedBack_Comments.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestregister.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestRegistration.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestreminder.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestView.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmInvoicing.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemAdjustment.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemCategory.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemMain.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemReq.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemReqConvertion.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemSelection.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemTemplate.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmKitchenStockMainvb.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmKOT_BOT_Billing.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLaunchsectionfoodrates.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLaunchSectionFoodVouchers.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLoadingPanel.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLogin.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMain.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMasterBilling.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMealplan.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMessengers.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMinibarItemSelect.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMinibarTransfer.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOfferComplimentary.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOutletBilling.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPayment.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPOConvertion.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPOReqConverstion.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmProfomainvoice.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchaseOrder.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchaseReq.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchReq.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchReqItemSelection.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReportView.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservertionSearch.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomChange.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomMaster.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomnochange.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomRates.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSeacondition.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSpaservices.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSupplier.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSystemSetup.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTax.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTaxinvoice.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTextFileImport.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTourOperatorContractMaster.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTourOperators.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTransferRate.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUserAssignGroup.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUserGroupAssignProcess.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUserGroups.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUsers.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmViewReport.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.KOTBOTBilling.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.Resources.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBed_Tax_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoat_Note_Raised_Detail_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoat_Note_Raised_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDaily_Front_Office_Information.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDeparture_Information.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmExpected_Arrival_List.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGIN_Raised_Detail_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGIN_Raised_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRN_Raised_Detail_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRN_Raised_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuest_Information_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuest_List_For_In_House.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmHistory_Statistic_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmHouse_Count_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItem_Request_Raised_Detail_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItem_Request_Raised_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Pax_By_Meal_Plan.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Rooms_By_Bedding.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Room_By_Operator.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Room_By_Type.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOperator_Wise_Performa_Invoice_Breakup_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOperator_Wise_Tax_Invoice_Creation_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPerforma_Invoice_Raised_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Raised_Detail_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Raised_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Request_Raised_Detail_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Request_Raised_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation_Creation__Report_Guest_Wise.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation_Creation_Deletion_Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation_Creation_Report_Tour_Operator_Wise.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTax_Invoice_Creation__Report.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.SplashScreen1.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.WaitForm1.resources
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.vbproj.GenerateResource.Cache
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.exe.licenses
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.exe
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.xml
+F:\Projects\HRM Pro\Integrate Final Try\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.pdb
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\bin\Release\HRM Pro.exe.config
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.exe
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.xml
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.pdb
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\bin\Release\HRM Pro.exe
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\bin\Release\HRM Pro.pdb
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\bin\Release\HRM Pro.xml
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\bin\Release\Namtuk.MyCommandButtonNET.dll
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\ResolveAssemblyReference.cache
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReportViewer.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmAmentities.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmArrivalDepartureExpexted.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmAutonoSetting.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoat.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoatSchedule.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoteNote.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmCheckOuts.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmCoktailItemCreation.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDepartment.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDirectory.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDiscountplan.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmEventBoard.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmEventDetails.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmExchangeRate.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmFlightSchedule.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmForecastDetails.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGIN.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRN.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRNConversion.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestFeedBack_Comments.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestregister.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestRegistration.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestreminder.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuestView.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmInvoicing.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemAdjustment.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemCategory.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemMain.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemReq.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemReqConvertion.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemSelection.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItemTemplate.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmKitchenStockMainvb.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmKOT_BOT_Billing.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLaunchsectionfoodrates.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLaunchSectionFoodVouchers.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLoadingPanel.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmLogin.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMain.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMasterBilling.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMealplan.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMessengers.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMinibarItemSelect.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmMinibarTransfer.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOfferComplimentary.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOutletBilling.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPayment.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPOConvertion.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPOReqConverstion.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmProfomainvoice.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchaseOrder.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchaseReq.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchReq.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPurchReqItemSelection.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReportView.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservertionSearch.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomChange.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomMaster.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomnochange.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmRoomRates.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSeacondition.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSpaservices.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSupplier.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmSystemSetup.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTax.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTaxinvoice.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTextFileImport.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTourOperatorContractMaster.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTourOperators.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTransferRate.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUserAssignGroup.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUserGroupAssignProcess.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUserGroups.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmUsers.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmViewReport.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.KOTBOTBilling.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.Resources.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBed_Tax_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoat_Note_Raised_Detail_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmBoat_Note_Raised_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDaily_Front_Office_Information.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmDeparture_Information.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmExpected_Arrival_List.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGIN_Raised_Detail_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGIN_Raised_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRN_Raised_Detail_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGRN_Raised_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuest_Information_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmGuest_List_For_In_House.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmHistory_Statistic_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmHouse_Count_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItem_Request_Raised_Detail_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmItem_Request_Raised_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Pax_By_Meal_Plan.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Rooms_By_Bedding.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Room_By_Operator.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOccupancy_Report_Of_Room_By_Type.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOperator_Wise_Performa_Invoice_Breakup_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmOperator_Wise_Tax_Invoice_Creation_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPerforma_Invoice_Raised_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Raised_Detail_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Raised_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Request_Raised_Detail_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmPO_Request_Raised_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation_Creation__Report_Guest_Wise.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation_Creation_Deletion_Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmReservation_Creation_Report_Tour_Operator_Wise.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.frmTax_Invoice_Creation__Report.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.SplashScreen1.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM_Pro.WaitForm1.resources
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\GenerateResource.read.1.tlog
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\GenerateResource.write.1.tlog
+D:\My Projects\Hotel-Maldive\Project\Source\RMS Pro\Integration1\HRM Pro\HRM Pro\obj\x86\Release\HRM Pro.exe.licenses

@@ -1,0 +1,262 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HRMPro
+</name>
+</assembly>
+<members>
+<member name="M:HRM_Pro.frmItemCategory.InsertNewCategory(System.String)">
+	<summary>
+ Insert New Category
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemCategory.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmGRNConversion.LoadGridMaster">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmKitchenStockMainvb.InsertNewKIC(System.String)">
+	<summary>
+ Insert New Item Req 
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmKitchenStockMainvb.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.Create_Supplier">
+	<summary>
+ This ll generate the Suppliercode.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.txtPF_Supp_EditValueChanged(System.Object,System.EventArgs)">
+	<summary>
+ Whenever these three value changed, we need to recreate the sample code.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.Create_Item">
+	<summary>
+ This ll generate the Suppliercode.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.Create_ItemReq">
+	<summary>
+ This ll generate the ITReq code.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.txtPF_ItemReq_EditValueChanged(System.Object,System.EventArgs)">
+	<summary>
+ Whenever these three value changed, we need to recreate the sample code.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.Create_Contracts">
+	<summary>
+ This ll generate the TOP code.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.txtPF_TOP_EditValueChanged(System.Object,System.EventArgs)">
+	<summary>
+ Whenever these three value changed, we need to recreate the sample code.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.Create_Reservation">
+	<summary>
+ This ll generate the Reservationcode.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.txtPF_Res_EditValueChanged(System.Object,System.EventArgs)">
+	<summary>
+ Whenever these three value changed, we need to recreate the sample code.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.Create_ProInv">
+	<summary>
+ This ll generate the Reservationcode.
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmAutonoSetting.txtPF_ProInv_EditValueChanged(System.Object,System.EventArgs)">
+	<summary>
+ Whenever these three value changed, we need to recreate the sample code.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemReqConvertion.LoadGridMaster">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="P:HRM_Pro.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HRM_Pro.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HRM_Pro.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:HRM_Pro.frmGRN.InsertNewGRN(System.String)">
+	<summary>
+ Insert New Item Req 
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmGRN.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmPOConvertion.LoadGridMaster">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmCoktailItemCreation.InsertNewItem(System.String)">
+	<summary>
+ Insert New Item
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmCoktailItemCreation.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemReq.InsertNewItemReq(System.String)">
+	<summary>
+ Insert New Item Req 
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemReq.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmBoteNote.InsertNewPO(System.String)">
+	<summary>
+ Insert New Item Req 
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmBoteNote.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmMinibarTransfer.InsertNewGIN(System.String)">
+	<summary>
+ Insert New Item Req 
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmMinibarTransfer.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmPurchaseOrder.InsertNewPO(System.String)">
+	<summary>
+ Insert New PO
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmPurchaseOrder.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmPurchReq.InsertNewItemReq(System.String)">
+	<summary>
+ Insert New Item Req 
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmPurchReq.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemTemplate.InsertNewItem(System.String)">
+	<summary>
+ Insert New Item
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemTemplate.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmKOT_BOT_Billing.InsertNewKOTBOTBilling(System.String)">
+	<summary>
+ Insert NewKOTBOTBilling
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmKOT_BOT_Billing.loadKotDataGrid">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmGIN.InsertNewGIN(System.String)">
+	<summary>
+ Insert New Item Req 
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmGIN.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemMain.InsertNewItem(System.String)">
+	<summary>
+ Insert New Item
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmItemMain.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmViewReport.#ctor(CrystalDecisions.CrystalReports.Engine.ReportClass,System.Data.DataSet)">
+	<summary>
+ The default constructor for this form.
+ It takes a report class and the data set which used to populate the report data.
+ </summary>
+	<param name="reportClass">The Report class to be shown on the form</param>
+	<param name="dataSource">The data set to get the data from</param>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmSupplier.InsertNewSupplier(System.String)">
+	<summary>
+ Insert New Supplier
+ </summary>
+	<returns>True-Sucess,False-Failed</returns>
+	<remarks></remarks>
+</member><member name="M:HRM_Pro.frmSupplier.LoadGridDets">
+	<summary>
+ Its Load Grid Details
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
